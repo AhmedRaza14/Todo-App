@@ -1,0 +1,16 @@
+fastapi==0.128.0
+sqlmodel==0.0.31
+asyncpg==0.31.0
+python-jose[cryptography]==3.5.0
+pydantic==2.12.5
+uvicorn==0.40.0
+pytest==9.0.2
+httpx==0.28.1
+python-dotenv==1.2.1
+passlib[bcrypt]==1.7.4
+cryptography==46.0.3
+anyio==4.12.1
+SQLAlchemy==2.0.45
+starlette==0.50.0
+openai==1.57.4
+mcp==1.7.1
